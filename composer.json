@@ -1,0 +1,17 @@
+{
+    "name": "oliavm/hello-composer",
+    "description": "hello-composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oliavm",
+            "email": "oliamo2016@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"oliavm\\hello-composer\\": "src/"}
+    },
+    "require": {}
+}

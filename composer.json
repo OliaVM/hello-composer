@@ -11,7 +11,7 @@
     ],
 
     "autoload": {
-        "psr-4": {"oliavm\\hello-composer\\": "src/"}
+        "psr-4": {"oliavm\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
